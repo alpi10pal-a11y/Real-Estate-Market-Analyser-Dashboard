@@ -1,0 +1,115 @@
+Rank,Feature,Importance
+1,num__SuperBuiltUpArea_sqft,0.6330202723143955
+2,cat__City_MMR,0.21153133033912527
+3,num__BuiltUpArea_sqft,0.04338852030111783
+4,cat__PropertyType_Penthouse,0.0323117351362626
+5,num__Longitude,0.028035201479594346
+6,cat__City_Ahmedabad,0.019507711753039433
+7,cat__PropertyType_Villa,0.008147289112200185
+8,num__CarpetArea_sqft,0.007583212238919089
+9,num__Latitude,0.0030704992021758316
+10,num__AgeYears,0.0023310776900930083
+11,num__YearBuilt,0.001860332001358649
+12,cat__PropertyType_Independent House,0.0015631743131004328
+13,cat__Furnishing_Unfurnished,0.0013240977365512792
+14,cat__Furnishing_Furnished,0.0010744388027367337
+15,cat__City_Kolkata,0.0007787201580624218
+16,cat__City_Hyderabad,0.000676754160393387
+17,num__Bathrooms,0.0006225253432617916
+18,num__BHK,0.0004344926143550999
+19,cat__City_Delhi NCR,0.00034673846088537855
+20,cat__Locality_Goregaon East,0.00030885378215025444
+21,num__Floor,0.0002811821506964201
+22,cat__PropertyType_Studio,0.0002680410379986543
+23,cat__City_Unknown,0.00018061815478352423
+24,cat__PropertyType_Row House,0.0001660031727418691
+25,cat__Locality_Mulund,0.0001598766623257665
+26,num__AmenitiesCount,0.00013541357364004288
+27,cat__Locality_Powai,0.0001307066265371772
+28,num__TotalFloors,0.00011075970544518027
+29,cat__Locality_Bandra West,7.77838636870852e-05
+30,cat__Locality_Andheri West,7.067795100009585e-05
+31,cat__Locality_Thane West,6.341696445234408e-05
+32,cat__Parking_Covered,5.8886379789162086e-05
+33,cat__Locality_Navi Mumbai-Kharghar,5.590379989458495e-05
+34,cat__Parking_Open,3.422968767348278e-05
+35,cat__Facing_South-West,2.800789452342798e-05
+36,cat__BuildingType_Bungalow,2.5922089382164962e-05
+37,cat__Locality_Sholinganallur,2.4606093543329374e-05
+38,cat__Parking_Not Specified,2.4195198841128134e-05
+39,cat__BuildingType_Standalone Building,2.349368568118613e-05
+40,cat__Locality_Noida-Sector 76,2.2887860686800127e-05
+41,cat__PropertyType_Apartment,1.9158032062078902e-05
+42,cat__Furnishing_Semi-Furnished,1.8822356320531122e-05
+43,cat__Furnishing_Unknown,1.658216148205789e-05
+44,cat__Parking_Basement,1.2287039854516418e-05
+45,cat__Facing_South,1.0624978410489636e-05
+46,cat__Facing_North-West,1.0320679759562901e-05
+47,cat__City_Bengaluru,9.964494503075847e-06
+48,cat__Locality_Yelahanka,8.305836093362514e-06
+49,cat__Locality_Kharadi,8.171359328465625e-06
+50,cat__Locality_Wakad,6.978731178522841e-06
+51,cat__Locality_Adyar,4.224673097805766e-06
+52,cat__City_Pune,3.705814990650628e-06
+53,num__Balconies,2.932898932895127e-06
+54,cat__Locality_Madhapur,2.6084535706498937e-06
+55,cat__Locality_Hinjawadi,2.323883120771092e-06
+56,cat__Locality_Anna Nagar,1.707656305438441e-06
+57,cat__Facing_East,7.356983641181677e-07
+58,cat__Locality_Viman Nagar,7.264256797372018e-07
+59,cat__IsRERARegistered_False,2.2317068533426734e-07
+60,cat__Locality_Koramangala,6.163158066942129e-09
+61,cat__Locality_Kondapur,0.0
+62,cat__Locality_Jadavpur,0.0
+63,cat__Locality_Hebbal,0.0
+64,cat__Locality_Jubilee Hills,0.0
+65,cat__Locality_Indiranagar,0.0
+66,cat__Locality_Dwarka,0.0
+67,cat__Locality_Banjara Hills,0.0
+68,cat__Locality_Baner,0.0
+69,cat__Locality_Banashankari,0.0
+70,cat__Locality_Aundh,0.0
+71,cat__City_Chennai,0.0
+72,cat__Locality_Gurugram-DLF Phase 3,0.0
+73,cat__Locality_Gurugram-Sector 56,0.0
+74,cat__Locality_HSR Layout,0.0
+75,cat__Locality_Faridabad-Sector 21,0.0
+76,cat__Locality_Gachibowli,0.0
+77,cat__Locality_Electronic City,0.0
+78,cat__Locality_Ghaziabad-Indirapuram,0.0
+79,cat__Locality_Behala,0.0
+80,cat__Locality_Bodakdev,0.0
+81,cat__Locality_Bopal,0.0
+82,cat__Locality_Noida-Sector 62,0.0
+83,cat__Locality_Whitefield,0.0
+84,cat__Locality_Vastrapur,0.0
+85,cat__Locality_Velachery,0.0
+86,cat__Locality_Vile Parle,0.0
+87,cat__Locality_Unknown,0.0
+88,cat__Locality_T Nagar,0.0
+89,cat__Locality_Thaltej,0.0
+90,cat__Locality_Tollygunge,0.0
+91,cat__Locality_Salt Lake,0.0
+92,cat__Locality_Sarjapur Road,0.0
+93,cat__Locality_Satellite,0.0
+94,cat__Locality_New Town,0.0
+95,cat__Locality_OMR,0.0
+96,cat__Locality_Porur,0.0
+97,cat__Locality_Prahlad Nagar,0.0
+98,cat__Locality_Rajarhat,0.0
+99,cat__Locality_Kothrud,0.0
+100,cat__Locality_Manikonda,0.0
+101,cat__Locality_Kukatpally,0.0
+102,cat__Locality_Maninagar,0.0
+103,cat__Locality_Marathahalli,0.0
+104,cat__Parking_Stilt,0.0
+105,cat__BuildingType_Gated Community,0.0
+106,cat__BuildingType_High Rise,0.0
+107,cat__Facing_North-East,0.0
+108,cat__Facing_North,0.0
+109,cat__BuildingType_Low Rise,0.0
+110,cat__BuildingType_Mid Rise,0.0
+111,cat__Facing_South-East,0.0
+112,cat__Facing_Unknown,0.0
+113,cat__Facing_West,0.0
+114,cat__IsRERARegistered_True,0.0
